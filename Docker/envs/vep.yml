@@ -1,0 +1,6 @@
+name: vep
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - ensembl-vep=96.0=pl526hecc5488_0
